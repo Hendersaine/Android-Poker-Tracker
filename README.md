@@ -18,3 +18,7 @@ The homepage:
 The game view screen:
 <br>
 ![Game view screen](Game-View.png)
+<br><br>
+And Selecting a game:
+<br>
+![Game select screen](Game-Select.png)
